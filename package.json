@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "@hapi/joi": "^17.1.1",
+    "joi": "^17.6.0"
+  },
+  "name": "hapijspractice-2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
